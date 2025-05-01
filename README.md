@@ -1,4 +1,4 @@
-# UK Railway Data Management & Forecasting
+# UK Railway Data Analytics & Forecasting
 
 A complete end-to-end project for data cleaning, modeling, analysis, and forecasting in the UK railway sector. Built using SQL, Python, and Tableau, the project enables optimized decision-making based on real-world railway operational and ticketing data.
 

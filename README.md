@@ -24,9 +24,9 @@ We transformed a flat dataset of UK railway transactions into a normalized relat
 
 ## 📁 Project Structure
 
-UK-Railway-Analysis/
-- ├── dataset/ # Raw datasets
-- ├── excel/ # Cleaned and transformed data in Excel files
+UK-Railway-Analysis/ \
+├── dataset/ # Raw datasets
+├── excel/ # Cleaned and transformed data in Excel files
 ├── sql/ # SQL scripts for database setup and queries
 ├── forecasting/ # Python notebooks for forecasting models
 ├── python/ # Python notebooks for data analysis
@@ -35,7 +35,7 @@ UK-Railway-Analysis/
 ├── presentation/ # PowerPoint file for final presentation
 ├── documentation/ # Final project documentation (docx/pdf)
 └── README.md # Project overview and instructions
-'''
+
 ---
 
 ## 🧱 Data Engineering & Modeling
